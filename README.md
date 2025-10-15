@@ -42,13 +42,6 @@ L'objectif était de démontrer ma capacité à :
 
 ---
 
-## 🎥 Démo
-
-### Interface vide
-![Interface vide](https://via.placeholder.com/800x400/f8fafc/64748b?text=Minimal+Todo+-+Interface+vide)
-
-### Avec tâches actives et terminées
-![Avec tâches](https://via.placeholder.com/800x400/f8fafc/64748b?text=Minimal+Todo+-+Avec+tâches)
 
 ### Design moderne
 - 🎨 Fond dégradé bleu-indigo
